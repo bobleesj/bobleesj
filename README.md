@@ -17,7 +17,7 @@ Prior to Columbia, I earned a B.E. in **Chemical Engineering** with minors in **
 
 I completed graduate-level coursework in Deep Learning ([ECE 472](https://cooper.edu/engineering/courses/electrical-and-computer-engineering-graduate/ece-472)) and Natural Language Processing ([ECE 467](https://cooper.edu/engineering/courses/electrical-and-computer-engineering-graduate/ece-467)). My other relevant graduate coursework includes Polymers, Phonons, Electrons, Condensed Matter Physics, Thermodynamics, and Numerical Analysis.
 
-### Upcoming tips
+### Upcoming trips
 
 I will be presenting a poster at the following events:
 
