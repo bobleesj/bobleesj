@@ -1,6 +1,6 @@
 ### My interests
 
-During my spare time, I volunteer and collaborate with Dr. Anton Oliynyk and his students from CUNY Hunter College. I generate geometric/compositional features and build tools for filtering, preprocessing, and merging crystal data with interactive Python scripts.
+During my spare time, I volunteer and collaborate with Dr. Anton Oliynyk from CUNY Hunter College. I generate geometric/compositional features and build user-interactive tools for filtering, preprocessing, and merging crystal data.
 
 | # | Project                                   | Description                                                                                                     |  Publication Link |
 |---|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------|------------------|
@@ -23,4 +23,3 @@ I will be presenting a poster at the following events:
 
 - Deep Modeling for Molecular Simulation 2024, Princeton University, June 25-28, 2024
 - Gordon Research Conference (GRC) Solid-State Chemistry, New Hampshire, July 20-26, 2024
-
