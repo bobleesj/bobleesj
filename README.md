@@ -1,6 +1,6 @@
 ### My interests
 
-During my spare time, I volunteer and collaborate with Dr. Anton Oliynyk from CUNY Hunter College. I generate geometric/compositional features and build user-interactive tools for filtering, preprocessing, and merging crystal data.
+During my spare time, I volunteer and collaborate with Dr. Anton Oliynyk from CUNY Hunter College. I generate geometric/compositional features and build user-interactive research tools for filtering, preprocessing, and merging crystal data.
 
 | # | Project                                   | Description                                                                                                     |  Publication Link |
 |---|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------|------------------|
