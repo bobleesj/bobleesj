@@ -23,3 +23,6 @@ I will be presenting a poster at the following events:
 
 - Deep Modeling for Molecular Simulation 2024, Princeton University, June 25-28, 2024
 - Gordon Research Conference (GRC) Solid-State Chemistry, New Hampshire, July 20-26, 2024
+
+
+<img src="https://github.com/bobleesj/bobleesj/assets/14892262/e545f71a-e24f-4ab4-97cb-7fa83dc69100" align="left" width="70%">
