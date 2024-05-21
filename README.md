@@ -24,7 +24,9 @@ I will be presenting a poster at the following events:
 - Deep Modeling for Molecular Simulation 2024, Princeton University, June 25-28, 2024
 - Gordon Research Conference (GRC) Solid-State Chemistry, New Hampshire, July 20-26, 2024
 
+New features coming to CIF Bond Analyzer!
 
-<img src="https://github.com/bobleesj/bobleesj/assets/14892262/e545f71a-e24f-4ab4-97cb-7fa83dc69100" align="left" width="600">
+<img src="https://github.com/bobleesj/bobleesj/assets/14892262/e545f71a-e24f-4ab4-97cb-7fa83dc69100" align="left" width="500">
 
-<img width="400" alt="ternary-system-analysis" src="https://github.com/bobleesj/bobleesj/assets/14892262/2198fcc3-a520-4cde-91e2-c8bbe48c6783">
+<img width="500" align="left" alt="ternary-system-analysis" src="https://github.com/bobleesj/bobleesj/assets/14892262/2a8e90ae-e3d4-484c-8517-080cd6514982">
+
