@@ -25,4 +25,6 @@ I will be presenting a poster at the following events:
 - Gordon Research Conference (GRC) Solid-State Chemistry, New Hampshire, July 20-26, 2024
 
 
-<img src="https://github.com/bobleesj/bobleesj/assets/14892262/e545f71a-e24f-4ab4-97cb-7fa83dc69100" align="left" width="70%">
+<img src="https://github.com/bobleesj/bobleesj/assets/14892262/e545f71a-e24f-4ab4-97cb-7fa83dc69100" align="left" width="600">
+
+<img width="400" alt="ternary-system-analysis" src="https://github.com/bobleesj/bobleesj/assets/14892262/2198fcc3-a520-4cde-91e2-c8bbe48c6783">
