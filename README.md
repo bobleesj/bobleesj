@@ -28,6 +28,6 @@ New features coming to CIF Bond Analyzer!
 
 <img src="https://github.com/bobleesj/bobleesj/assets/14892262/e545f71a-e24f-4ab4-97cb-7fa83dc69100" align="left" width="500">
 
-<img width="500" align="left" alt="ternary-system-analysis" src="https://github.com/bobleesj/bobleesj/assets/14892262/2a8e90ae-e3d4-484c-8517-080cd6514982">
+<img width="500" align="left" alt="traingular" src="https://github.com/bobleesj/bobleesj/assets/14892262/6cfd2f5c-5588-457b-aead-21c2d15a99f2">
 
 Last update: May 21, 2024
