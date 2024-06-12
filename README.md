@@ -19,7 +19,7 @@ I completed graduate-level coursework in Deep Learning ([ECE 472](https://cooper
 
 ### Upcoming trips
 
-I will be presenting a poster at the following events:
+I will be attending the following events:
 
 - Deep Modeling for Molecular Simulation 2024, Princeton University, June 25-28, 2024
 - Gordon Research Conference (GRC) Solid-State Chemistry, New Hampshire, July 20-26, 2024
