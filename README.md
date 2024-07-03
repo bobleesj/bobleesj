@@ -8,7 +8,7 @@ During my spare time, I volunteer and collaborate with Dr. Anton Oliynyk from CU
 | 2 | [Structure Analyzer/Featurizer (SAF)](https://github.com/bobleesj/structure-analyzer-featurizer) | Generates geometric features of interatomic distances, atomic environment information, and coordination numbers. | TBA (Summer 2024) |
 | 3 | [Composition Analyzer/Featurizer (CAF)](https://github.com/bobleesj/composition-analyzer-featurizer) | Generates chemical compositional features and provides tools for filtering, sorting, and merging data.           | TBA (Summer 2024) |
 | 4 | [CIF Cleaner](https://github.com/bobleesj/cif-cleaner) | Formats .cif files and sorts them based on tags, supercell size, and minimum distance.                    | N/S |
-
+| 5 | [cifkit](https://github.com/bobleesj/cifkit) | Python package for .cif high-throuhgput analysis (NEW) | N/S |  
 ### Education
 
 I am currently enrolled in the M.S. **Materials Science and Engineering** program with a concentration in Materials Theory and Simulations at Columbia University, advised by Dr. Renata Wentzcovitch.
