@@ -10,6 +10,8 @@ During my spare time, I collaborate with Dr. Anton Oliynyk from CUNY Hunter Coll
 | 4 | [CIF Cleaner](https://github.com/bobleesj/cif-cleaner) | Formats .cif files and sorts them based on tags, supercell size, and minimum distance.                    | N/S |
 | 5 | [cifkit](https://github.com/bobleesj/cifkit) | Python package for .cif high-throuhgput analysis (NEW) | N/S |  
 
+### Blog
+
 I document my learning and share my personal essays here: https://bobleesj.github.io/blog
 
 ### Education
