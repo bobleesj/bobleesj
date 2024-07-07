@@ -1,6 +1,6 @@
 ### My interests
 
-During my spare time, I volunteer and collaborate with Dr. Anton Oliynyk from CUNY Hunter College. I generate geometric/compositional features and build user-interactive research tools for filtering, preprocessing, and merging crystal data.
+During my spare time, I collaborate with Dr. Anton Oliynyk from CUNY Hunter College. I generate geometric/compositional features and build user-interactive research tools for filtering, preprocessing, and merging crystal data.
 
 | # | Project                                   | Description                                                                                                     |  Publication Link |
 |---|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------|------------------|
@@ -9,6 +9,9 @@ During my spare time, I volunteer and collaborate with Dr. Anton Oliynyk from CU
 | 3 | [Composition Analyzer/Featurizer (CAF)](https://github.com/bobleesj/composition-analyzer-featurizer) | Generates chemical compositional features and provides tools for filtering, sorting, and merging data.           | TBA (Summer 2024) |
 | 4 | [CIF Cleaner](https://github.com/bobleesj/cif-cleaner) | Formats .cif files and sorts them based on tags, supercell size, and minimum distance.                    | N/S |
 | 5 | [cifkit](https://github.com/bobleesj/cifkit) | Python package for .cif high-throuhgput analysis (NEW) | N/S |  
+
+I document my learning and share my personal essays here: https://bobleesj.github.io/blog
+
 ### Education
 
 I am currently enrolled in the M.S. **Materials Science and Engineering** program with a concentration in Materials Theory and Simulations at Columbia University, advised by Dr. Renata Wentzcovitch.
