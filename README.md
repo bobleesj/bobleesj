@@ -1,6 +1,12 @@
+### News
+
+I will be joining Prof. Simon Billinge's group in Fall 2024. https://github.com/Billingegroup
+
 ### My interests
 
 During my spare time, I collaborate with Dr. Anton Oliynyk from CUNY Hunter College. I generate geometric/compositional features and build user-interactive research tools for filtering, preprocessing, and merging crystal data.
+
+
 
 | # | Project                                   | Description                                                                                                     |  Publication Link |
 |---|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------|------------------|
@@ -15,6 +21,7 @@ During my spare time, I collaborate with Dr. Anton Oliynyk from CUNY Hunter Coll
 I document my learning and share my personal essays here: https://bobleesj.github.io/blog
 
 ### Education
+
 
 I am currently enrolled in the M.S. **Materials Science and Engineering** program with a concentration in Materials Theory and Simulations at Columbia University, advised by Dr. Renata Wentzcovitch.
 
