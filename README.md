@@ -2,6 +2,11 @@
 
 I will be joining Prof. Simon Billinge's group in Fall 2024. https://github.com/Billingegroup
 
+- [diffpy.snmf](https://github.com/diffpy/diffpy.snmf)
+- [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping)
+
+
+
 ### My interests
 
 During my spare time, I collaborate with Dr. Anton Oliynyk from CUNY Hunter College. I generate geometric/compositional features and build user-interactive research tools for filtering, preprocessing, and merging crystal data.
