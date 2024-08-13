@@ -6,6 +6,7 @@ I will be joining Prof. Simon Billinge's group in Fall 2024. https://github.com/
 - [diffpy.srfit](https://github.com/diffpy/diffpy.srfit)
 - [diffpy.srreal](https://github.com/diffpy/diffpy.srreal)
 - [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping)
+- [cookiecutter-BG-fork](https://github.com/Billingegroup/cookiecutter)
 - [bg-mpl-stylesheets](https://github.com/Billingegroup/bg-mpl-stylesheets)
 
 
