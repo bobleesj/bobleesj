@@ -1,5 +1,6 @@
 Billinge Group Github Links for maintenance purposes::
 
+- [dffipy.labpdfproc](https://github.com/diffpy/diffpy.labpdfproc) | [fork](https://github.com/bobleesj/diffpy.labpdfproc)
 - [diffpy.pdfmorph](https://github.com/diffpy/diffpy.pdfmorph) | [fork](https://github.com/bobleesj/diffpy.pdfmorph)
 - [diffpy.pdfgui](https://github.com/diffpy/diffpy.pdfgui) | [fork](https://github.com/bobleesj/diffpy.pdfgui)
 - [diffpy.structure](https://github.com/diffpy/diffpy.structure) | [fork](https://github.com/bobleesj/diffpy.structure)
