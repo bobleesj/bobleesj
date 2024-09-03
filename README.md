@@ -4,7 +4,6 @@ I will be joining Prof. Simon Billinge's group in Fall 2024. https://github.com/
 
 Quick links:
 
-- [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping)
 - [diffpy.utils](https://github.com/diffpy/diffpy.utils)
 - [diffpy.pdfmorph](https://github.com/diffpy/diffpy.pdfmorph)
 - [diffpy.pdfgui](https://github.com/diffpy/diffpy.pdfgui)
