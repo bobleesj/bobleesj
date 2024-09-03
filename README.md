@@ -2,12 +2,22 @@
 
 I will be joining Prof. Simon Billinge's group in Fall 2024. https://github.com/Billingegroup
 
-- [diffpy.snmf](https://github.com/diffpy/diffpy.snmf)
+Quick links:
+
+- [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping)
+- [diffpy.utils](https://github.com/diffpy/diffpy.utils)
+- [diffpy.pdfmorph](https://github.com/diffpy/diffpy.pdfmorph)
+- [diffpy.pdfgui](https://github.com/diffpy/diffpy.pdfgui)
+- [diffpy.structure](https://github.com/diffpy/diffpy.structure)
+- [diffpy.snmf](https://github.com/diffpy/diffpy.structure)
 - [diffpy.srfit](https://github.com/diffpy/diffpy.srfit)
 - [diffpy.srreal](https://github.com/diffpy/diffpy.srreal)
+- [diffpy.pdffit2](https://github.com/diffpy/diffpy.pdffit2)
 - [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping)
-- [cookiecutter-BG-fork](https://github.com/Billingegroup/cookiecutter)
+- [dffipy.fourigui](https://github.com/diffpy/diffpy.fourigui)
 - [bg-mpl-stylesheets](https://github.com/Billingegroup/bg-mpl-stylesheets)
+- [staged-recipe-cookiecutter](https://github.com/Billingegroup/staged-recipes-cookiecutter)
+- [cookiecutter](https://github.com/Billingegroup/cookiecutter)
 
 
 
