@@ -1,23 +1,19 @@
-### News
-
-I will be joining Prof. Simon Billinge's group in Fall 2024. https://github.com/Billingegroup
-
 Quick links:
 
-- [diffpy.utils](https://github.com/diffpy/diffpy.utils)
-- [diffpy.pdfmorph](https://github.com/diffpy/diffpy.pdfmorph)
-- [diffpy.pdfgui](https://github.com/diffpy/diffpy.pdfgui)
-- [diffpy.structure](https://github.com/diffpy/diffpy.structure)
-- [diffpy.snmf](https://github.com/diffpy/diffpy.structure)
-- [diffpy.srfit](https://github.com/diffpy/diffpy.srfit)
-- [diffpy.srreal](https://github.com/diffpy/diffpy.srreal)
-- [diffpy.pdffit2](https://github.com/diffpy/diffpy.pdffit2)
-- [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping)
-- [dffipy.fourigui](https://github.com/diffpy/diffpy.fourigui)
-- [bg-mpl-stylesheets](https://github.com/Billingegroup/bg-mpl-stylesheets)
-- [staged-recipe-cookiecutter](https://github.com/Billingegroup/staged-recipes-cookiecutter)
-- [cookiecutter](https://github.com/Billingegroup/cookiecutter)
-
+- [diffpy.pdfmorph](https://github.com/diffpy/diffpy.pdfmorph) | [fork](https://github.com/bobleesj/diffpy.pdfmorph)
+- [diffpy.pdfgui](https://github.com/diffpy/diffpy.pdfgui) | [fork](https://github.com/bobleesj/diffpy.pdfgui)
+- [diffpy.structure](https://github.com/diffpy/diffpy.structure) | [fork](https://github.com/bobleesj/diffpy.structure)
+- [diffpy.snmf](https://github.com/diffpy/diffpy.snmf) | [fork](https://github.com/bobleesj/diffpy.snmf)
+- [diffpy.srfit](https://github.com/diffpy/diffpy.srfit) | [fork](https://github.com/bobleesj/diffpy.srfit)
+- [diffpy.utils](https://github.com/diffpy/diffpy.utils) | [fork](https://github.com/bobleesj/diffpy.utils)
+- [diffpy.srreal](https://github.com/diffpy/diffpy.srreal) | [fork](https://github.com/bobleesj/diffpy.srreal)
+- [diffpy.pdffit2](https://github.com/diffpy/diffpy.pdffit2) | [fork](https://github.com/bobleesj/diffpy.pdffit2)
+- [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping) | [fork](https://github.com/bobleesj/diffpy.nmf_mapping)
+- [diffpy.fourigui](https://github.com/diffpy/diffpy.fourigui) | [fork](https://github.com/bobleesj/diffpy.fourigui)
+- [bg-mpl-stylesheets](https://github.com/Billingegroup/bg-mpl-stylesheets) | [fork](https://github.com/bobleesj/bg-mpl-stylesheets)
+- [bg-staged-recipe-cookiecutter](https://github.com/Billingegroup/staged-recipes-cookiecutter) | [fork](https://github.com/bobleesj/staged-recipes-cookiecutter)
+- [bg-cookiecutter](https://github.com/Billingegroup/cookiecutter) | [fork](https://github.com/bobleesj/cookiecutter)
+- [bg-release scripts](https://github.com/Billingegroup/release-scripts) | [fork](https://github.com/bobleesj/release-scripts)
 
 
 ### My interests
