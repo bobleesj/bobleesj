@@ -1,4 +1,4 @@
-Quick links:
+Billinge Group Github Links for maintenance purposes::
 
 - [diffpy.pdfmorph](https://github.com/diffpy/diffpy.pdfmorph) | [fork](https://github.com/bobleesj/diffpy.pdfmorph)
 - [diffpy.pdfgui](https://github.com/diffpy/diffpy.pdfgui) | [fork](https://github.com/bobleesj/diffpy.pdfgui)
@@ -19,7 +19,6 @@ Quick links:
 ### My interests
 
 During my spare time, I collaborate with Dr. Anton Oliynyk from CUNY Hunter College. I generate geometric/compositional features and build user-interactive research tools for filtering, preprocessing, and merging crystal data.
-
 
 
 | # | Project                                   | Description                                                                                                     |  Publication Link |
@@ -43,17 +42,10 @@ Prior to Columbia, I earned a B.E. in **Chemical Engineering** with minors in **
 
 I completed graduate-level coursework in Deep Learning ([ECE 472](https://cooper.edu/engineering/courses/electrical-and-computer-engineering-graduate/ece-472)) and Natural Language Processing ([ECE 467](https://cooper.edu/engineering/courses/electrical-and-computer-engineering-graduate/ece-467)). My other relevant graduate coursework includes Polymers, Phonons, Electrons, Condensed Matter Physics, Thermodynamics, and Numerical Analysis.
 
-### Upcoming trips
-
-I will be attending the following events:
-
-- Deep Modeling for Molecular Simulation 2024, Princeton University, June 25-28, 2024
-- Gordon Research Conference (GRC) Solid-State Chemistry, New Hampshire, July 20-26, 2024
-
-New features coming to CIF Bond Analyzer!
+Features implemented in CIF Bond Analyzer!
 
 <img src="https://github.com/bobleesj/bobleesj/assets/14892262/e545f71a-e24f-4ab4-97cb-7fa83dc69100" align="left" width="500">
 
 <img width="500" alt="ternary" src="https://github.com/bobleesj/bobleesj/assets/14892262/65e3bd76-8aaa-4a2b-b858-d3b83102867a">
 
-Last update: June 21, 2024
+Last update: Sep 3, 2024
