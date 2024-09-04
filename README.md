@@ -35,7 +35,7 @@ During my spare time, I collaborate with Dr. Anton Oliynyk from CUNY Hunter Coll
 | 2 | [Structure Analyzer/Featurizer (SAF)](https://github.com/bobleesj/structure-analyzer-featurizer) | Generates geometric features of interatomic distances, atomic environment information, and coordination numbers. | TBA (Summer 2024) |
 | 3 | [Composition Analyzer/Featurizer (CAF)](https://github.com/bobleesj/composition-analyzer-featurizer) | Generates chemical compositional features and provides tools for filtering, sorting, and merging data.           | TBA (Summer 2024) |
 | 4 | [CIF Cleaner](https://github.com/bobleesj/cif-cleaner) | Formats .cif files and sorts them based on tags, supercell size, and minimum distance.                    | N/S |
-| 5 | [cifkit](https://github.com/bobleesj/cifkit) | Python package for .cif high-throughput analysis (NEW) | N/S |  
+| 5 | [cifkit](https://github.com/bobleesj/cifkit) | Python package for .cif high-throughput analysis (NEW) | TBA |  
 
 ### Blog
 
