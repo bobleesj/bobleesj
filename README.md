@@ -1,4 +1,4 @@
-Billinge Group Github Links for maintenance purposes::
+Billinge Group Github Links for maintenance purposes:
 
 - [dffipy.labpdfproc](https://github.com/diffpy/diffpy.labpdfproc) | [fork](https://github.com/bobleesj/diffpy.labpdfproc)
 - [diffpy.pdfmorph](https://github.com/diffpy/diffpy.pdfmorph) | [fork](https://github.com/bobleesj/diffpy.pdfmorph)
@@ -16,6 +16,9 @@ Billinge Group Github Links for maintenance purposes::
 - [bg-cookiecutter](https://github.com/Billingegroup/cookiecutter) | [fork](https://github.com/bobleesj/cookiecutter)
 - [bg-release scripts](https://github.com/Billingegroup/release-scripts) | [fork](https://github.com/bobleesj/release-scripts)
 
+Project I maintain:
+
+- [cifkit](https://github.com/bobleesj/cifkit) | [conda-forge](https://github.com/conda-forge/cifkit-feedstock)
 
 ### My interests
 
