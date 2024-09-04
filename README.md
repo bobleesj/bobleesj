@@ -18,7 +18,9 @@ Billinge Group Github Links for maintenance purposes:
 
 Project I maintain:
 
-- [cifkit](https://github.com/bobleesj/cifkit) | [conda-forge](https://github.com/conda-forge/cifkit-feedstock)
+cf: conda-forge
+
+- [cifkit](https://github.com/bobleesj/cifkit) | [cf](https://github.com/conda-forge/cifkit-feedstock) | [cf-fork](https://github.com/bobleesj/cifkit-feedstock)
 
 ### My interests
 
