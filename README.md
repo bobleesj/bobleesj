@@ -43,7 +43,6 @@ I document my learning and share my personal essays here: https://bobleesj.githu
 
 ### Education
 
-
 I am currently enrolled in the M.S. **Materials Science and Engineering** program with a concentration in Materials Theory and Simulations at Columbia University, advised by Dr. Simon Billinge.
 
 Prior to Columbia, I earned a B.E. in **Chemical Engineering** with minors in **Computer Science** and **Chemistry** from The Cooper Union. There, I conducted three semesters of supervised research on Monte Carlo geometry optimization and open-source development, advised by Dr. Robert Topper.
