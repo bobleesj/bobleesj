@@ -11,6 +11,7 @@ cf: conda-forge
 - [diffpy.snmf](https://github.com/diffpy/diffpy.snmf) | [fork](https://github.com/bobleesj/diffpy.snmf) | [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/27265)
 - [diffpy.srfit](https://github.com/diffpy/diffpy.srfit) | [fork](https://github.com/bobleesj/diffpy.srfit) [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/25665)
 - [diffpy.srreal](https://github.com/diffpy/diffpy.srreal) | [fork](https://github.com/bobleesj/diffpy.srreal) | [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/25498)
+- [diffpy.srmise](https://github.com/diffpy/diffpy.srmise) | [fork](https://github.com/bobleesj/diffpy.srmise)
 - [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping) | [fork](https://github.com/bobleesj/diffpy.nmf_mapping)
 - [diffpy.fourigui](https://github.com/diffpy/diffpy.fourigui) | [fork](https://github.com/bobleesj/diffpy.fourigui)
 - [dffipy.labpdfproc](https://github.com/diffpy/diffpy.labpdfproc) | [fork](https://github.com/bobleesj/diffpy.labpdfproc)
