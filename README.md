@@ -11,6 +11,7 @@ cf: conda-forge
 - [diffpy.snmf](https://github.com/diffpy/diffpy.snmf) | [fork](https://github.com/bobleesj/diffpy.snmf) | [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/27265) (tests top, pytest)
 - [diffpy.structure](https://github.com/diffpy/diffpy.structure) | [fork](https://github.com/bobleesj/diffpy.structure) | [cf](https://github.com/conda-forge/diffpy.structure-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.structure-feedstock) (tests top, pytest)
 - [bg-mpl-stylesheets](https://github.com/Billingegroup/bg-mpl-stylesheets) | [fork](https://github.com/bobleesj/bg-mpl-stylesheets) | [cf](https://github.com/conda-forge/bg-mpl-stylesheets-feedstock) | [cf-fork](https://github.com/bobleesj/bg-mpl-stylesheets-feedstock) (tests top, pytest)
+- - [dffipy.labpdfproc](https://github.com/diffpy/diffpy.labpdfproc) | [fork](https://github.com/bobleesj/diffpy.labpdfproc) (test top (yucong pending), pytest, )
 - [diffpy.pdfmorph](https://github.com/diffpy/diffpy.pdfmorph) | [fork](https://github.com/bobleesj/diffpy.pdfmorph) | [cf](https://github.com/conda-forge/diffpy.pdfmorph-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdfmorph-feedstock)
 - [diffpy.pdfgui](https://github.com/diffpy/diffpy.pdfgui) | [fork](https://github.com/bobleesj/diffpy.pdfgui) | [cf](https://github.com/conda-forge/diffpy.pdfgui-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdfgui-feedstock)
 - [diffpy.utils](https://github.com/diffpy/diffpy.utils) | [fork](https://github.com/bobleesj/diffpy.utils) | [cf](https://github.com/conda-forge/diffpy.utils-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.utils-feedstock)
@@ -20,7 +21,6 @@ cf: conda-forge
 - [diffpy.srmise](https://github.com/diffpy/diffpy.srmise) | [fork](https://github.com/bobleesj/diffpy.srmise)
 - [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping) | [fork](https://github.com/bobleesj/diffpy.nmf_mapping)
 - [diffpy.fourigui](https://github.com/diffpy/diffpy.fourigui) | [fork](https://github.com/bobleesj/diffpy.fourigui)
-- [dffipy.labpdfproc](https://github.com/diffpy/diffpy.labpdfproc) | [fork](https://github.com/bobleesj/diffpy.labpdfproc)
 - [pyobjcryst](https://github.com/diffpy/pyobjcryst) | [cf](https://github.com/conda-forge/pyobjcryst-feedstock)
 
 - [bg-cookiecutter](https://github.com/Billingegroup/cookiecutter) | [fork](https://github.com/bobleesj/cookiecutter) (
