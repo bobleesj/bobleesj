@@ -1,5 +1,11 @@
 Billinge Group Github Links for maintenance purposes:
 
+Infrastructure tasks:
+
+- [ ] execute pytests with folders at the root | [status](https://github.com/Billingegroup/cookiecutter/issues/114)
+- [ ] news CI check in cookiecuttered projects 
+- [ ] support Python 3.13, drop 3.10
+
 cf: conda-forge
 
 - [diffpy.snmf](https://github.com/diffpy/diffpy.snmf) | [fork](https://github.com/bobleesj/diffpy.snmf) | [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/27265) (tests top, pytest)
@@ -17,7 +23,7 @@ cf: conda-forge
 - [dffipy.labpdfproc](https://github.com/diffpy/diffpy.labpdfproc) | [fork](https://github.com/bobleesj/diffpy.labpdfproc)
 - [pyobjcryst](https://github.com/diffpy/pyobjcryst) | [cf](https://github.com/conda-forge/pyobjcryst-feedstock)
 
-- [bg-cookiecutter](https://github.com/Billingegroup/cookiecutter) | [fork](https://github.com/bobleesj/cookiecutter)
+- [bg-cookiecutter](https://github.com/Billingegroup/cookiecutter) | [fork](https://github.com/bobleesj/cookiecutter) (
 - [bg-staged-recipe-cookiecutter](https://github.com/Billingegroup/staged-recipes-cookiecutter) | [fork](https://github.com/bobleesj/staged-recipes-cookiecutter)
 - [bg-release scripts](https://github.com/Billingegroup/release-scripts) | [fork](https://github.com/bobleesj/release-scripts)
 
