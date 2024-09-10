@@ -3,7 +3,6 @@ Billinge Group Github Links for maintenance purposes:
 Infrastructure tasks:
 
 - [ ] execute pytests with folders at the root | [status](https://github.com/Billingegroup/cookiecutter/issues/114)
-- [ ] news CI check in cookiecuttered projects 
 - [ ] support Python 3.13, drop 3.10
 
 cf: conda-forge
