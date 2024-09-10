@@ -14,12 +14,13 @@ cf: conda-forge
 - [bg-mpl-stylesheets](https://github.com/Billingegroup/bg-mpl-stylesheets) | [fork](https://github.com/bobleesj/bg-mpl-stylesheets) | [cf](https://github.com/conda-forge/bg-mpl-stylesheets-feedstock) | [cf-fork](https://github.com/bobleesj/bg-mpl-stylesheets-feedstock) (Py3.10-12,tests top, pytest)
 - [dffipy.labpdfproc](https://github.com/diffpy/diffpy.labpdfproc) | [fork](https://github.com/bobleesj/diffpy.labpdfproc) (Py3.10-12, test top, pytest)
 - [diffpy.srmise](https://github.com/diffpy/diffpy.srmise) | [fork](https://github.com/bobleesj/diffpy.srmise) (Py3.10-12, test top, pytest)
-- [diffpy.pdfmorph](https://github.com/diffpy/diffpy.pdfmorph) | [fork](https://github.com/bobleesj/diffpy.pdfmorph) | [cf](https://github.com/conda-forge/diffpy.pdfmorph-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdfmorph-feedstock)
+- [diffpy.pdfmorph](https://github.com/diffpy/diffpy.pdfmorph) | [fork](https://github.com/bobleesj/diffpy.pdfmorph) | [cf](https://github.com/conda-forge/diffpy.pdfmorph-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdfmorph-feedstock) (Py3.10-12, test top, pytest)
 - [diffpy.pdfgui](https://github.com/diffpy/diffpy.pdfgui) | [fork](https://github.com/bobleesj/diffpy.pdfgui) | [cf](https://github.com/conda-forge/diffpy.pdfgui-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdfgui-feedstock)
 - [diffpy.pdffit2](https://github.com/diffpy/diffpy.pdffit2) | [fork](https://github.com/bobleesj/diffpy.pdffit2) | [cf](https://github.com/conda-forge/diffpy.pdffit2-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdffit2-feedstock)
+- [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping) | [fork](https://github.com/bobleesj/diffpy.nmf_mapping) (Py3.10-12, pytest)
 - [diffpy.srfit](https://github.com/diffpy/diffpy.srfit) | [fork](https://github.com/bobleesj/diffpy.srfit) [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/25665)
 - [diffpy.srreal](https://github.com/diffpy/diffpy.srreal) | [fork](https://github.com/bobleesj/diffpy.srreal) | [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/25498)
-- [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping) | [fork](https://github.com/bobleesj/diffpy.nmf_mapping)
+
 - [diffpy.fourigui](https://github.com/diffpy/diffpy.fourigui) | [fork](https://github.com/bobleesj/diffpy.fourigui)
 - [pyobjcryst](https://github.com/diffpy/pyobjcryst) | [cf](https://github.com/conda-forge/pyobjcryst-feedstock)
 
