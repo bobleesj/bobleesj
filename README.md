@@ -7,19 +7,24 @@ Infrastructure tasks:
 
 cf: conda-forge
 
-- [diffpy.snmf](https://github.com/diffpy/diffpy.snmf) | [fork](https://github.com/bobleesj/diffpy.snmf) | [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/27265) (Py3.10-12, tests top, pytest [ ] approve cf-recipe by reviewer)
-- [diffpy.utils](https://github.com/diffpy/diffpy.utils) | [fork](https://github.com/bobleesj/diffpy.utils) | [cf](https://github.com/conda-forge/diffpy.utils-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.utils-feedstock) (Py3.10-12,tests top, pytest [ ] modify cf-recipe for test)
-- [diffpy.structure](https://github.com/diffpy/diffpy.structure) | [fork](https://github.com/bobleesj/diffpy.structure) | [cf](https://github.com/conda-forge/diffpy.structure-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.structure-feedstock) (Py3.10-12,tests top, pytest,  ✔)
-- [bg-mpl-stylesheets](https://github.com/Billingegroup/bg-mpl-stylesheets) | [fork](https://github.com/bobleesj/bg-mpl-stylesheets) | [cf](https://github.com/conda-forge/bg-mpl-stylesheets-feedstock) | [cf-fork](https://github.com/bobleesj/bg-mpl-stylesheets-feedstock) (Py3.10-12,tests top, pytest, ✔)
-- [dffipy.labpdfproc](https://github.com/diffpy/diffpy.labpdfproc) | [fork](https://github.com/bobleesj/diffpy.labpdfproc) (Py3.10-12, test top, pytest - make conda-recipe)
-- [diffpy.srmise](https://github.com/diffpy/diffpy.srmise) | [fork](https://github.com/bobleesj/diffpy.srmise) (Py3.10-12, test top, pytest)
-- [diffpy.pdfmorph](https://github.com/diffpy/diffpy.pdfmorph) | [fork](https://github.com/bobleesj/diffpy.pdfmorph) | [cf](https://github.com/conda-forge/diffpy.pdfmorph-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdfmorph-feedstock) (Py3.10-12, test top, pytest, good now)
+Under cf review:
+- [dffipy.labpdfproc](https://github.com/diffpy/diffpy.labpdfproc) | [fork](https://github.com/bobleesj/diffpy.labpdfproc) | [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/27776)
+- [diffpy.srmise](https://github.com/diffpy/diffpy.srmise) | [fork](https://github.com/bobleesj/diffpy.srmise) | [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/27777)
+- [diffpy.fourigui](https://github.com/diffpy/diffpy.fourigui) | [fork](https://github.com/bobleesj/diffpy.fourigui) [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/27786)
+
+Done:
+- [diffpy.snmf](https://github.com/diffpy/diffpy.snmf) | [fork](https://github.com/bobleesj/diffpy.snmf) | [cf](https://github.com/conda-forge/diffpy.snmf-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.snmf-feedstock)
+- [diffpy.utils](https://github.com/diffpy/diffpy.utils) | [fork](https://github.com/bobleesj/diffpy.utils) | [cf](https://github.com/conda-forge/diffpy.utils-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.utils-feedstock)
+- [diffpy.structure](https://github.com/diffpy/diffpy.structure) | [fork](https://github.com/bobleesj/diffpy.structure) | [cf](https://github.com/conda-forge/diffpy.structure-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.structure-feedstock)
+- [bg-mpl-stylesheets](https://github.com/Billingegroup/bg-mpl-stylesheets) | [fork](https://github.com/bobleesj/bg-mpl-stylesheets) | [cf](https://github.com/conda-forge/bg-mpl-stylesheets-feedstock) | [cf-fork](https://github.com/bobleesj/bg-mpl-stylesheets-feedstock)
+
+- [diffpy.pdfmorph](https://github.com/diffpy/diffpy.pdfmorph) | [fork](https://github.com/bobleesj/diffpy.pdfmorph) | [cf](https://github.com/conda-forge/diffpy.pdfmorph-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdfmorph-feedstock) 
 - [diffpy.pdfgui](https://github.com/diffpy/diffpy.pdfgui) | [fork](https://github.com/bobleesj/diffpy.pdfgui) | [cf](https://github.com/conda-forge/diffpy.pdfgui-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdfgui-feedstock)
 - [diffpy.pdffit2](https://github.com/diffpy/diffpy.pdffit2) | [fork](https://github.com/bobleesj/diffpy.pdffit2) | [cf](https://github.com/conda-forge/diffpy.pdffit2-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdffit2-feedstock)
 - [diffpy.srfit](https://github.com/diffpy/diffpy.srfit) | [fork](https://github.com/bobleesj/diffpy.srfit) [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/25665) (need to finish cookiecut folder structure, tests refactor needed)
 - [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping) | [fork](https://github.com/bobleesj/diffpy.nmf_mapping) (Py3.10-12, pytest - test cases fail)
 - [diffpy.srreal](https://github.com/diffpy/diffpy.srreal) | [fork](https://github.com/bobleesj/diffpy.srreal) | [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/25498) (need to fix C++ bug)
-- [diffpy.fourigui](https://github.com/diffpy/diffpy.fourigui) | [fork](https://github.com/bobleesj/diffpy.fourigui) ([] add pytests in PR)
+
 
 - [bg-cookiecutter](https://github.com/Billingegroup/cookiecutter) | [fork](https://github.com/bobleesj/cookiecutter)
 - [bg-staged-recipe-cookiecutter](https://github.com/Billingegroup/staged-recipes-cookiecutter) | [fork](https://github.com/bobleesj/staged-recipes-cookiecutter)
