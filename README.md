@@ -2,8 +2,7 @@ Billinge Group Github Links for maintenance purposes:
 
 Infrastructure tasks:
 
-- [ ] execute pytests with folders at the root | [status](https://github.com/Billingegroup/cookiecutter/issues/114)
-- [ ] support Python 3.13, drop 3.10
+- [ ] use GitHub CI to create wheels, upload to PyPI, produce changelog
 
 cf: conda-forge
 
@@ -14,8 +13,8 @@ Under cf review:
 
 Next targets:
 - [diffpy.srfit](https://github.com/diffpy/diffpy.srfit) | [fork](https://github.com/bobleesj/diffpy.srfit) [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/25665) (need to finish cookiecut folder structure, tests refactor needed)
-- [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping) | [fork](https://github.com/bobleesj/diffpy.nmf_mapping) (Py3.10-12, pytest - test cases fail)
 - [diffpy.srreal](https://github.com/diffpy/diffpy.srreal) | [fork](https://github.com/bobleesj/diffpy.srreal) | [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/25498) (need to fix C++ bug)
+- [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping) | [fork](https://github.com/bobleesj/diffpy.nmf_mapping) (Py3.10-12, pytest - test cases fail)
 
 Done:
 - [diffpy.snmf](https://github.com/diffpy/diffpy.snmf) | [fork](https://github.com/bobleesj/diffpy.snmf) | [cf](https://github.com/conda-forge/diffpy.snmf-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.snmf-feedstock)
