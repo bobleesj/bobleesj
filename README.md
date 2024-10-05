@@ -12,20 +12,21 @@ Under cf review:
 - [diffpy.srmise](https://github.com/diffpy/diffpy.srmise) | [fork](https://github.com/bobleesj/diffpy.srmise) | [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/27777)
 - [diffpy.fourigui](https://github.com/diffpy/diffpy.fourigui) | [fork](https://github.com/bobleesj/diffpy.fourigui) [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/27786)
 
+Next targets:
+- [diffpy.srfit](https://github.com/diffpy/diffpy.srfit) | [fork](https://github.com/bobleesj/diffpy.srfit) [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/25665) (need to finish cookiecut folder structure, tests refactor needed)
+- [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping) | [fork](https://github.com/bobleesj/diffpy.nmf_mapping) (Py3.10-12, pytest - test cases fail)
+- [diffpy.srreal](https://github.com/diffpy/diffpy.srreal) | [fork](https://github.com/bobleesj/diffpy.srreal) | [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/25498) (need to fix C++ bug)
+- 
 Done:
 - [diffpy.snmf](https://github.com/diffpy/diffpy.snmf) | [fork](https://github.com/bobleesj/diffpy.snmf) | [cf](https://github.com/conda-forge/diffpy.snmf-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.snmf-feedstock)
 - [diffpy.utils](https://github.com/diffpy/diffpy.utils) | [fork](https://github.com/bobleesj/diffpy.utils) | [cf](https://github.com/conda-forge/diffpy.utils-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.utils-feedstock)
 - [diffpy.structure](https://github.com/diffpy/diffpy.structure) | [fork](https://github.com/bobleesj/diffpy.structure) | [cf](https://github.com/conda-forge/diffpy.structure-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.structure-feedstock)
 - [bg-mpl-stylesheets](https://github.com/Billingegroup/bg-mpl-stylesheets) | [fork](https://github.com/bobleesj/bg-mpl-stylesheets) | [cf](https://github.com/conda-forge/bg-mpl-stylesheets-feedstock) | [cf-fork](https://github.com/bobleesj/bg-mpl-stylesheets-feedstock)
-
 - [diffpy.pdfmorph](https://github.com/diffpy/diffpy.pdfmorph) | [fork](https://github.com/bobleesj/diffpy.pdfmorph) | [cf](https://github.com/conda-forge/diffpy.pdfmorph-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdfmorph-feedstock) 
 - [diffpy.pdfgui](https://github.com/diffpy/diffpy.pdfgui) | [fork](https://github.com/bobleesj/diffpy.pdfgui) | [cf](https://github.com/conda-forge/diffpy.pdfgui-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdfgui-feedstock)
 - [diffpy.pdffit2](https://github.com/diffpy/diffpy.pdffit2) | [fork](https://github.com/bobleesj/diffpy.pdffit2) | [cf](https://github.com/conda-forge/diffpy.pdffit2-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdffit2-feedstock)
-- [diffpy.srfit](https://github.com/diffpy/diffpy.srfit) | [fork](https://github.com/bobleesj/diffpy.srfit) [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/25665) (need to finish cookiecut folder structure, tests refactor needed)
-- [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping) | [fork](https://github.com/bobleesj/diffpy.nmf_mapping) (Py3.10-12, pytest - test cases fail)
-- [diffpy.srreal](https://github.com/diffpy/diffpy.srreal) | [fork](https://github.com/bobleesj/diffpy.srreal) | [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/25498) (need to fix C++ bug)
 
-
+Other packages
 - [bg-cookiecutter](https://github.com/Billingegroup/cookiecutter) | [fork](https://github.com/bobleesj/cookiecutter)
 - [bg-staged-recipe-cookiecutter](https://github.com/Billingegroup/staged-recipes-cookiecutter) | [fork](https://github.com/bobleesj/staged-recipes-cookiecutter)
 - [bg-release scripts](https://github.com/Billingegroup/release-scripts) | [fork](https://github.com/bobleesj/release-scripts)
