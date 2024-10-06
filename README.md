@@ -1,8 +1,11 @@
+[command-line cheatsheet](https://github.com/bobleesj/command-line-cheatsheet/)
+
 Billinge Group Github Links for maintenance purposes:
 
 Infrastructure tasks:
 
 - [ ] use GitHub CI to create wheels, upload to PyPI, produce changelog
+
 
 cf: conda-forge
 
