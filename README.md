@@ -2,13 +2,6 @@
 
 Billinge Group Github Links for maintenance purposes:
 
-Infrastructure tasks:
-
-- [ ] use GitHub CI to create wheels, upload to PyPI, produce changelog
-
-
-cf: conda-forge
-
 Under cf review:
 - [dffipy.labpdfproc](https://github.com/diffpy/diffpy.labpdfproc) | [fork](https://github.com/bobleesj/diffpy.labpdfproc) | [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/27776)
 - [diffpy.srmise](https://github.com/diffpy/diffpy.srmise) | [fork](https://github.com/bobleesj/diffpy.srmise) | [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/27777)
