@@ -9,7 +9,7 @@ Next targets:
 
 Done:
 - [dffipy.labpdfproc](https://github.com/diffpy/diffpy.labpdfproc) | [fork](https://github.com/bobleesj/diffpy.labpdfproc) | [cf](https://github.com/conda-forge/diffpy.labpdfproc-feedstock) | [cf-fork]()
-- [diffpy.srmise](https://github.com/diffpy/diffpy.srmise) | [fork](https://github.com/bobleesj/diffpy.srmise) | [cf](https://github.com/conda-forge/diffpy.srmise-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.labpdfproc-feedstock)
+- [diffpy.srmise](https://github.com/diffpy/diffpy.srmise) | [fork](https://github.com/bobleesj/diffpy.srmise) | [cf](https://github.com/conda-forge/diffpy.srmise-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.srmise-feedstock)
 - [diffpy.fourigui](https://github.com/diffpy/diffpy.fourigui) | [fork](https://github.com/bobleesj/diffpy.fourigui) [cf](https://github.com/conda-forge/diffpy.fourigui-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.fourigui-feedstock)
 - [diffpy.snmf](https://github.com/diffpy/diffpy.snmf) | [fork](https://github.com/bobleesj/diffpy.snmf) | [cf](https://github.com/conda-forge/diffpy.snmf-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.fourigui-feedstock)
 - [diffpy.utils](https://github.com/diffpy/diffpy.utils) | [fork](https://github.com/bobleesj/diffpy.utils) | [cf](https://github.com/conda-forge/diffpy.utils-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.utils-feedstock)
