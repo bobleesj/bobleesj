@@ -1,4 +1,4 @@
-[command-line cheatsheet](https://github.com/bobleesj/command-line-cheatsheet/)
+[git-tips](https://github.com/bobleesj/tips) | [Bob's command-line cheatsheet](https://github.com/bobleesj/command-line-cheatsheet/)
 
 Billinge Group Github Links for maintenance purposes:
 
