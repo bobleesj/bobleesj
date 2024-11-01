@@ -7,6 +7,7 @@ Next targets:
 - [diffpy.srreal](https://github.com/diffpy/diffpy.srreal) | [fork](https://github.com/bobleesj/diffpy.srreal) | [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/25498) (need to fix C++ bug)
 
 Done:
+- [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping) | [fork](https://github.com/bobleesj/diffpy.nmf_mapping) |
 - [dffipy.labpdfproc](https://github.com/diffpy/diffpy.labpdfproc) | [fork](https://github.com/bobleesj/diffpy.labpdfproc) | [cf](https://github.com/conda-forge/diffpy.labpdfproc-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.labpdfproc-feedstock)
 - [diffpy.srmise](https://github.com/diffpy/diffpy.srmise) | [fork](https://github.com/bobleesj/diffpy.srmise) | [cf](https://github.com/conda-forge/diffpy.srmise-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.srmise-feedstock)
 - [diffpy.fourigui](https://github.com/diffpy/diffpy.fourigui) | [fork](https://github.com/bobleesj/diffpy.fourigui) [cf](https://github.com/conda-forge/diffpy.fourigui-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.fourigui-feedstock)
