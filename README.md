@@ -51,7 +51,7 @@ I am currently enrolled in the M.S. **Materials Science and Engineering** progra
 
 Prior to Columbia, I earned a B.E. in **Chemical Engineering** with minors in **Computer Science** and **Chemistry** from The Cooper Union. There, I conducted three semesters of supervised research on Monte Carlo geometry optimization and open-source development, advised by Dr. Robert Topper.
 
-I completed graduate-level coursework in Deep Learning ([ECE 472](https://cooper.edu/engineering/courses/electrical-and-computer-engineering-graduate/ece-472)) and Natural Language Processing ([ECE 467](https://cooper.edu/engineering/courses/electrical-and-computer-engineering-graduate/ece-467)). My other relevant graduate coursework includes Polymers, Phonons, Electrons, Condensed Matter Physics, Thermodynamics, and Numerical Analysis.
+I completed graduate-level coursework in Deep Learning ([ECE 472](https://cooper.edu/engineering/courses/electrical-and-computer-engineering-graduate/ece-472)) and Natural Language Processing ([ECE 467](https://cooper.edu/engineering/courses/electrical-and-computer-engineering-graduate/ece-467)). My other relevant graduate coursework includes Crystallography, Phonons, Electrons, Condensed Matter Physics, Thermodynamics, Numerical Analysis, Polymers, and other standard MSE courses.
 
 Features implemented in CIF Bond Analyzer!
 
