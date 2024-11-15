@@ -38,8 +38,7 @@ During my spare time, I collaborate with Dr. Anton Oliynyk from CUNY Hunter Coll
 | 1 | [CIF Bond Analyzer (CBA)](https://github.com/bobleesj/cif-bond-analyzer) | Computes the minimum atomic bonding distances from sites, generating histograms and pair counts.                  | [Journal of Alloys and Compounds](https://doi.org/10.1016/j.jallcom.2023.173241)  |
 | 2 | [Structure Analyzer/Featurizer (SAF)](https://github.com/bobleesj/structure-analyzer-featurizer) | Generates geometric features of interatomic distances, atomic environment information, and coordination numbers. | [pre-print](https://chemrxiv.org/engage/chemrxiv/article-details/670aa269cec5d6c142f3b11a) |
 | 3 | [Composition Analyzer/Featurizer (CAF)](https://github.com/bobleesj/composition-analyzer-featurizer) | Generates chemical compositional features and provides tools for filtering, sorting, and merging data.           | [pre-print](https://chemrxiv.org/engage/chemrxiv/article-details/670aa269cec5d6c142f3b11a) |
-| 4 | [CIF Cleaner](https://github.com/bobleesj/cif-cleaner) | Formats .cif files and sorts them based on tags, supercell size, and minimum distance.                    | N/S |
-| 5 | [cifkit](https://github.com/bobleesj/cifkit) | Python package for .cif high-throughput analysis (NEW) | <a href="https://joss.theoj.org/papers/9016ae27b8c6fddffaae5aeb8be18d19"><img src="https://joss.theoj.org/papers/9016ae27b8c6fddffaae5aeb8be18d19/status.svg"></a>|  
+| 4 | [cifkit](https://github.com/bobleesj/cifkit) | Python package for .cif high-throughput analysis (NEW) | <a href="https://joss.theoj.org/papers/9016ae27b8c6fddffaae5aeb8be18d19"><img src="https://joss.theoj.org/papers/9016ae27b8c6fddffaae5aeb8be18d19/status.svg"></a>|  
 
 ### Blog
 
