@@ -7,9 +7,9 @@ Next targets:
 - [diffpy.srreal](https://github.com/diffpy/diffpy.srreal) | [fork](https://github.com/bobleesj/diffpy.srreal) | [cf-recipe](https://github.com/conda-forge/staged-recipes/pull/25498) (need to fix C++ bug)
 - [diffpy.pdffit2](https://github.com/diffpy/diffpy.pdffit2) | [fork](https://github.com/bobleesj/diffpy.pdffit2) | [cf](https://github.com/conda-forge/diffpy.pdffit2-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdffit2-feedstock)
 - [regolith](https://github.com/regro/regolith) | [fork](https://github.com/bobleesj/regolith) | [cf](https://github.com/conda-forge/regolith-feedstock) | [cf-fork](https://github.com/bobleesj/regolith-feedstock)
+- [diffpy.pdfgui](https://github.com/diffpy/diffpy.pdfgui) | [fork](https://github.com/bobleesj/diffpy.pdfgui) | [cf](https://github.com/conda-forge/diffpy.pdfgui-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdfgui-feedstock)
 
-Done:
-- [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping) | [fork](https://github.com/bobleesj/diffpy.nmf_mapping) |
+Done 3.13:
 - [dffipy.labpdfproc](https://github.com/diffpy/diffpy.labpdfproc) | [fork](https://github.com/bobleesj/diffpy.labpdfproc) | [cf](https://github.com/conda-forge/diffpy.labpdfproc-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.labpdfproc-feedstock)
 - [diffpy.srmise](https://github.com/diffpy/diffpy.srmise) | [fork](https://github.com/bobleesj/diffpy.srmise) | [cf](https://github.com/conda-forge/diffpy.srmise-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.srmise-feedstock)
 - [diffpy.fourigui](https://github.com/diffpy/diffpy.fourigui) | [fork](https://github.com/bobleesj/diffpy.fourigui) [cf](https://github.com/conda-forge/diffpy.fourigui-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.fourigui-feedstock)
@@ -17,8 +17,7 @@ Done:
 - [diffpy.structure](https://github.com/diffpy/diffpy.structure) | [fork](https://github.com/bobleesj/diffpy.structure) | [cf](https://github.com/conda-forge/diffpy.structure-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.structure-feedstock)
 - [bg-mpl-stylesheets](https://github.com/Billingegroup/bg-mpl-stylesheets) | [fork](https://github.com/bobleesj/bg-mpl-stylesheets) | [cf](https://github.com/conda-forge/bg-mpl-stylesheets-feedstock) | [cf-fork](https://github.com/bobleesj/bg-mpl-stylesheets-feedstock)
 - [diffpy.pdfmorph](https://github.com/diffpy/diffpy.pdfmorph) | [fork](https://github.com/bobleesj/diffpy.pdfmorph) | [cf](https://github.com/conda-forge/diffpy.pdfmorph-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdfmorph-feedstock) 
-- [diffpy.pdfgui](https://github.com/diffpy/diffpy.pdfgui) | [fork](https://github.com/bobleesj/diffpy.pdfgui) | [cf](https://github.com/conda-forge/diffpy.pdfgui-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdfgui-feedstock)
-- [diffpy.pdffit2](https://github.com/diffpy/diffpy.pdffit2) | [fork](https://github.com/bobleesj/diffpy.pdffit2) | [cf](https://github.com/conda-forge/diffpy.pdffit2-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdffit2-feedstock)
+- [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping) | [fork](https://github.com/bobleesj/diffpy.nmf_mapping) |
 
 Other packages
 - [bg-cookiecutter](https://github.com/Billingegroup/cookiecutter) | [fork](https://github.com/bobleesj/cookiecutter)
