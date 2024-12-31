@@ -13,19 +13,16 @@ Done 3.13:
 - [dffipy.labpdfproc](https://github.com/diffpy/diffpy.labpdfproc) | [fork](https://github.com/bobleesj/diffpy.labpdfproc) | [cf](https://github.com/conda-forge/diffpy.labpdfproc-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.labpdfproc-feedstock)
 - [diffpy.srmise](https://github.com/diffpy/diffpy.srmise) | [fork](https://github.com/bobleesj/diffpy.srmise) | [cf](https://github.com/conda-forge/diffpy.srmise-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.srmise-feedstock)
 - [diffpy.fourigui](https://github.com/diffpy/diffpy.fourigui) | [fork](https://github.com/bobleesj/diffpy.fourigui) [cf](https://github.com/conda-forge/diffpy.fourigui-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.fourigui-feedstock)
-- [diffpy.utils](https://github.com/diffpy/diffpy.utils) | [fork](https://github.com/bobleesj/diffpy.utils) | [cf](https://github.com/conda-forge/diffpy.utils-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.utils-feedstock)
 - [diffpy.structure](https://github.com/diffpy/diffpy.structure) | [fork](https://github.com/bobleesj/diffpy.structure) | [cf](https://github.com/conda-forge/diffpy.structure-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.structure-feedstock)
 - [bg-mpl-stylesheets](https://github.com/Billingegroup/bg-mpl-stylesheets) | [fork](https://github.com/bobleesj/bg-mpl-stylesheets) | [cf](https://github.com/conda-forge/bg-mpl-stylesheets-feedstock) | [cf-fork](https://github.com/bobleesj/bg-mpl-stylesheets-feedstock)
 - [diffpy.pdfmorph](https://github.com/diffpy/diffpy.pdfmorph) | [fork](https://github.com/bobleesj/diffpy.pdfmorph) | [cf](https://github.com/conda-forge/diffpy.pdfmorph-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.pdfmorph-feedstock) 
 - [diffpy.nmf_mapping](https://github.com/diffpy/diffpy.nmf_mapping) | [fork](https://github.com/bobleesj/diffpy.nmf_mapping) |
 
-Other packages
+Package I actively develop and maintain:
+- [diffpy.utils](https://github.com/diffpy/diffpy.utils) | [fork](https://github.com/bobleesj/diffpy.utils) | [cf](https://github.com/conda-forge/diffpy.utils-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.utils-feedstock)
 - [bg-cookiecutter](https://github.com/Billingegroup/cookiecutter) | [fork](https://github.com/bobleesj/cookiecutter)
 - [bg-staged-recipe-cookiecutter](https://github.com/Billingegroup/staged-recipes-cookiecutter) | [fork](https://github.com/bobleesj/staged-recipes-cookiecutter)
 - [bg-release scripts](https://github.com/Billingegroup/release-scripts) | [fork](https://github.com/bobleesj/release-scripts)
-
-Package I maintain:
-
 - [cifkit](https://github.com/bobleesj/cifkit) | [cf](https://github.com/conda-forge/cifkit-feedstock) | [cf-fork](https://github.com/bobleesj/cifkit-feedstock)
 
 ### My interests
