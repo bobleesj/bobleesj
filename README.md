@@ -20,7 +20,7 @@ Done 3.13:
 
 Package I actively develop and maintain:
 - [diffpy.utils](https://github.com/diffpy/diffpy.utils) | [fork](https://github.com/bobleesj/diffpy.utils) | [cf](https://github.com/conda-forge/diffpy.utils-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.utils-feedstock)
-- [scikit-package](https://github.com/Billingegroup/scikit-pacakge) | [fork](https://github.com/bobleesj/scikit-pacakge)
+- [scikit-package](https://github.com/Billingegroup/scikit-package) | [fork](https://github.com/bobleesj/scikit-package)
 - [scikit-pacakge-conda-forge](https://github.com/Billingegroup/scikit-pacakge-conda-forge) | [fork](https://github.com/bobleesj/scikit-pacakge-conda-forge)
 - [bg-release scripts](https://github.com/Billingegroup/release-scripts) | [fork](https://github.com/bobleesj/release-scripts)
 - [cifkit](https://github.com/bobleesj/cifkit) | [cf](https://github.com/conda-forge/cifkit-feedstock) | [cf-fork](https://github.com/bobleesj/cifkit-feedstock)
