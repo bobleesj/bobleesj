@@ -5,7 +5,7 @@ Billinge Group Github Links for maintenance purposes:
 Next targets:
 
 Package I actively develop and maintain:
-- [diffpy.utils](https://github.com/diffpy/diffpy.utils) | [fork](https://github.com/bobleesj/diffpy.utils) | [cf](https://github.com/conda-forge/diffpy.utils-feedstock) | [cf-fork](https://github.com/bobleesj/diffpy.utils-feedstock)
+
 - [scikit-package](https://github.com/Billingegroup/scikit-package) | [fork](https://github.com/bobleesj/scikit-package) | [cf](https://github.com/conda-forge/scikit-package-feedstock) | [cf-fork](https://github.com/bobleesj/scikit-package-feedstock)
 - [scikit-package-workspace](https://github.com/Billingegroup/scikit-package-workspace) | [fork](https://github.com/bobleesj/scikit-package-workspace)
 - [scikit-package-system](https://github.com/Billingegroup/scikit-package-system) | [fork](https://github.com/bobleesj/scikit-package-system)
