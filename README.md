@@ -2,12 +2,12 @@
 
 Package I actively develop and maintain:
 
-- [scikit-package](https://github.com/Billingegroup/scikit-package) | [fork](https://github.com/bobleesj/scikit-package) | [cf](https://github.com/conda-forge/scikit-package-feedstock) | [cf-fork](https://github.com/bobleesj/scikit-package-feedstock)
-- [scikit-package-workspace](https://github.com/Billingegroup/scikit-package-workspace) | [fork](https://github.com/bobleesj/scikit-package-workspace)
-- [scikit-package-system](https://github.com/Billingegroup/scikit-package-system) | [fork](https://github.com/bobleesj/scikit-package-system)
-- [scikit-pacakge-conda-forge](https://github.com/Billingegroup/scikit-pacakge-conda-forge) | [fork](https://github.com/bobleesj/scikit-pacakge-conda-forge)
-- [bg-release scripts](https://github.com/Billingegroup/release-scripts) | [fork](https://github.com/bobleesj/release-scripts)
-- [cifkit](https://github.com/bobleesj/cifkit) | [cf](https://github.com/conda-forge/cifkit-feedstock) | [cf-fork](https://github.com/bobleesj/cifkit-feedstock)
+- [skpkg](https://github.com/Billingegroup/scikit-package) | [issue](https://github.com/Billingegroup/scikit-package/issues) | [fork](https://github.com/bobleesj/scikit-package) | [cf](https://github.com/conda-forge/scikit-package-feedstock) | [cf-fork](https://github.com/bobleesj/scikit-package-feedstock)
+- [skpkg-workspace](https://github.com/Billingegroup/scikit-package-workspace) | [issue](https://github.com/Billingegroup/scikit-package-workspace/issues) | [fork](https://github.com/bobleesj/scikit-package-workspace)
+- [skpkg-system](https://github.com/Billingegroup/scikit-package-system) | [issue](https://github.com/Billingegroup/scikit-package-system/issues) | [fork](https://github.com/bobleesj/scikit-package-system)
+- [skpkg-conda-forge](https://github.com/Billingegroup/scikit-pacakge-conda-forge) | [issue](https://github.com/Billingegroup/scikit-package-conda-forge/issues) | [fork](https://github.com/bobleesj/scikit-pacakge-conda-forge)
+- [bg-release scripts](https://github.com/Billingegroup/release-scripts) | [issue](https://github.com/Billingegroup/release-scripts/issues) | [fork](https://github.com/bobleesj/release-scripts)
+- [cifkit](https://github.com/bobleesj/cifkit) | [issue]() | [cf](https://github.com/conda-forge/cifkit-feedstock) | [cf-fork](https://github.com/bobleesj/cifkit-feedstock)
 
 ### My interests
 
