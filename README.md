@@ -1,8 +1,4 @@
-[git-tips](https://github.com/bobleesj/tips) | [Bob's command-line cheatsheet](https://github.com/bobleesj/command-line-cheatsheet/)
-
-Billinge Group Github Links for maintenance purposes:
-
-Next targets:
+[Bob's command-line cheatsheet](https://github.com/bobleesj/command-line-cheatsheet/) | [git-tips](https://github.com/bobleesj/tips) | 
 
 Package I actively develop and maintain:
 
@@ -16,7 +12,6 @@ Package I actively develop and maintain:
 ### My interests
 
 During my spare time, I collaborate with Dr. Anton Oliynyk from CUNY Hunter College. I generate geometric/compositional features and build user-interactive research tools for filtering, preprocessing, and merging crystal data.
-
 
 | # | Project                                   | Description                                                                                                     |  Publication Link |
 |---|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------|------------------|
