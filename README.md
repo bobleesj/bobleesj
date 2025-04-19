@@ -25,7 +25,7 @@ During my spare time, I collaborate with Dr. Anton Oliynyk from CUNY Hunter Coll
 | 3 | [Composition Analyzer/Featurizer (CAF)](https://github.com/bobleesj/composition-analyzer-featurizer) | Generates chemical compositional features and provides tools for filtering, sorting, and merging data.        | [Digital Discovery](https://doi.org/10.1039/D4DD00332B) |
 | 4 | [cifkit](https://github.com/bobleesj/cifkit) | Python package for .cif coordination geometry and atomic site analysis | <a href="https://joss.theoj.org/papers/9016ae27b8c6fddffaae5aeb8be18d19"><img src="https://joss.theoj.org/papers/9016ae27b8c6fddffaae5aeb8be18d19/status.svg"></a>|  
 | 5 | [Inorganic ML descriptors](https://www.sciencedirect.com/science/article/pii/S2352340924001495) | Thermoelectric materials performance (zT) predictions with ML | [ACS Applied Materials & Interfaces](https://pubs.acs.org/doi/10.1021/acsami.4c19149)|  
-| 6| Crystal structure clustering with SAF/CAF | Unsupervised ML with ~80 features and experimental validation | JACS (accepted) |  
+| 6| Crystal structure clustering with SAF/CAF | Unsupervised ML with ~80 features and experimental validation | [Journal of American Chemical Society (JACS)](https://pubs.acs.org/doi/10.1021/jacs.5c03510) |  
 
 ### Blog
 
