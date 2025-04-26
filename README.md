@@ -1,4 +1,4 @@
-[Bob's command-line cheatsheet](https://github.com/bobleesj/command-line-cheatsheet/) | [git-tips](https://github.com/bobleesj/tips) | 
+[Bob's command-line cheatsheet](https://github.com/bobleesj/command-line-cheatsheet/) | [git-tips](https://github.com/bobleesj/tips) | [bobleesj.github.io](https://github.com/bobleesj/bobleesj.github.io)
 
 Package I actively develop and maintain:
 
