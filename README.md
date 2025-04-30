@@ -1,13 +1,17 @@
 [Bob's command-line cheatsheet](https://github.com/bobleesj/command-line-cheatsheet/) | [git-tips](https://github.com/bobleesj/tips) | [bobleesj.github.io](https://github.com/bobleesj/bobleesj.github.io)
 
-Package I actively develop and maintain:
+Software I develop:
 
 - [skpkg](https://github.com/Billingegroup/scikit-package) | [issue](https://github.com/Billingegroup/scikit-package/issues) | [fork](https://github.com/bobleesj/scikit-package) | [cf](https://github.com/conda-forge/scikit-package-feedstock) | [cf-fork](https://github.com/bobleesj/scikit-package-feedstock)
 - [skpkg-workspace](https://github.com/Billingegroup/scikit-package-workspace) | [issue](https://github.com/Billingegroup/scikit-package-workspace/issues) | [fork](https://github.com/bobleesj/scikit-package-workspace)
 - [skpkg-system](https://github.com/Billingegroup/scikit-package-system) | [issue](https://github.com/Billingegroup/scikit-package-system/issues) | [fork](https://github.com/bobleesj/scikit-package-system)
 - [skpkg-conda-forge](https://github.com/Billingegroup/scikit-pacakge-conda-forge) | [issue](https://github.com/Billingegroup/scikit-package-conda-forge/issues) | [fork](https://github.com/bobleesj/scikit-pacakge-conda-forge)
 - [bg-release scripts](https://github.com/Billingegroup/release-scripts) | [issue](https://github.com/Billingegroup/release-scripts/issues) | [fork](https://github.com/bobleesj/release-scripts)
+
+Software I maintain:
+
 - [cifkit](https://github.com/bobleesj/cifkit) | [issue]() | [cf](https://github.com/conda-forge/cifkit-feedstock) | [cf-fork](https://github.com/bobleesj/cifkit-feedstock)
+- [CBA](https://github.com/bobleesj/cif-bond-analyzer) | [SAF](https://github.com/bobleesj/structure-analyzer-featurizer) | [CAF](https://github.com/bobleesj/composition-analyzer-featurizer) | [CIF Cleaner](https://github.com/bobleesj/cif-cleaner)
 
 ### My interests
 
