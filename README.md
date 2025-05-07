@@ -1,6 +1,6 @@
 [Bob's command-line cheatsheet](https://github.com/bobleesj/command-line-cheatsheet/) | [git-tips](https://github.com/bobleesj/tips) | [bobleesj.github.io](https://github.com/bobleesj/bobleesj.github.io)
 
-👉 Check `scikit-package` to save your time sharing scientific code in Python. https://billingegroup.github.io/scikit-package/.
+👉 Check [`scikit-package`](https://billingegroup.github.io/scikit-package/) to save your time sharing scientific code in Python.
 
 Software I develop:
 
