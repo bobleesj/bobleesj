@@ -28,10 +28,6 @@ During my spare time, I collaborate with Dr. Anton Oliynyk from CUNY Hunter Coll
 | 5 | [Inorganic ML descriptors](https://www.sciencedirect.com/science/article/pii/S2352340924001495) | Thermoelectric materials performance (zT) predictions with ML | [ACS Applied Materials & Interfaces](https://pubs.acs.org/doi/10.1021/acsami.4c19149)|  
 | 6| Crystal structure clustering with SAF/CAF | Unsupervised ML with ~80 features and experimental validation | [Journal of American Chemical Society (JACS)](https://pubs.acs.org/doi/10.1021/jacs.5c03510) |  
 
-### Blog
-
-I document my learning and share my personal essays here: https://bobleesj.github.io/blog
-
 Features implemented in CIF Bond Analyzer!
 
 <img src="https://github.com/bobleesj/bobleesj/assets/14892262/e545f71a-e24f-4ab4-97cb-7fa83dc69100" align="left" width="500">
