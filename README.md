@@ -17,9 +17,9 @@ Software I maintain:
 
 ### My interests
 
-During my spare time, I collaborate with Dr. Anton Oliynyk from CUNY Hunter College. I generate geometric/compositional features and build user-interactive research tools for filtering, preprocessing, and merging crystal data.
+I've been building software with Dr. Anton Oliynyk from CUNY Hunter College. I generate geometric/compositional features and build user-interactive research tools for filtering, preprocessing, and merging crystal data.
 
-| # | Project                                   | Description                                                                                                     |  Publication Link |
+| # | Open-source project                                   | Description                                                                                                     |  Publication Link |
 |---|---------------------------------------------|-----------------------------------------------------------------------------------------------------------------|------------------|
 | 1 | [CIF Bond Analyzer (CBA)](https://github.com/bobleesj/cif-bond-analyzer) | Computes the minimum atomic bonding distances from sites, generating histograms and pair counts.                  | [Journal of Alloys and Compounds](https://doi.org/10.1016/j.jallcom.2023.173241)  |
 | 2 | [Structure Analyzer/Featurizer (SAF)](https://github.com/bobleesj/structure-analyzer-featurizer) | Generates geometric features of interatomic distances, atomic environment information, and coordination numbers. |  [Digital Discovery](https://doi.org/10.1039/D4DD00332B) |
