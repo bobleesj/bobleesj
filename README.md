@@ -1,14 +1,14 @@
 [Bob's command-line cheatsheet](https://github.com/bobleesj/command-line-cheatsheet/) | [git-tips](https://github.com/bobleesj/tips) | [bobleesj.github.io](https://github.com/bobleesj/bobleesj.github.io)
 
-👉 Check [`scikit-package`](https://billingegroup.github.io/scikit-package/) to save your time sharing scientific code in Python.
+👉 Check [`scikit-package`](https://scikit-package.github.io/scikit-package/) to save your time sharing scientific code in Python.
 
 Software I develop:
 
-- [skpkg](https://github.com/Billingegroup/scikit-package) | [issue](https://github.com/Billingegroup/scikit-package/issues) | [fork](https://github.com/bobleesj/scikit-package) | [cf](https://github.com/conda-forge/scikit-package-feedstock) | [cf-fork](https://github.com/bobleesj/scikit-package-feedstock)
-- [skpkg-workspace](https://github.com/Billingegroup/scikit-package-workspace) | [issue](https://github.com/Billingegroup/scikit-package-workspace/issues) | [fork](https://github.com/bobleesj/scikit-package-workspace)
-- [skpkg-system](https://github.com/Billingegroup/scikit-package-system) | [issue](https://github.com/Billingegroup/scikit-package-system/issues) | [fork](https://github.com/bobleesj/scikit-package-system)
-- [skpkg-conda-forge](https://github.com/Billingegroup/scikit-pacakge-conda-forge) | [issue](https://github.com/Billingegroup/scikit-package-conda-forge/issues) | [fork](https://github.com/bobleesj/scikit-pacakge-conda-forge)
-- [bg-release scripts](https://github.com/Billingegroup/release-scripts) | [issue](https://github.com/Billingegroup/release-scripts/issues) | [fork](https://github.com/bobleesj/release-scripts)
+- [skpkg](https://github.com/scikit-package/scikit-package) | [issue](https://github.com/scikit-package/scikit-package/issues) | [fork](https://github.com/bobleesj/scikit-package) | [cf](https://github.com/conda-forge/scikit-package-feedstock) | [cf-fork](https://github.com/bobleesj/scikit-package-feedstock)
+- [skpkg-workspace](https://github.com/scikit-package/scikit-package-workspace) | [issue](https://github.com/scikit-package/scikit-package-workspace/issues) | [fork](https://github.com/bobleesj/scikit-package-workspace)
+- [skpkg-system](https://github.com/scikit-package/scikit-package-system) | [issue](https://github.com/scikit-package/scikit-package-system/issues) | [fork](https://github.com/bobleesj/scikit-package-system)
+- [skpkg-conda-forge](https://github.com/scikit-package/scikit-package-conda-forge) | [issue](https://github.com/scikit-package/scikit-package-conda-forge/issues) | [fork](https://github.com/bobleesj/scikit-pacakge-conda-forge)
+- [release scripts](https://github.com/scikit-package/release-scripts) | [issue](https://github.com/scikit-package/release-scripts/issues) | [fork](https://github.com/bobleesj/release-scripts)
 
 Software I maintain:
 
