@@ -5,8 +5,7 @@
 Software I develop:
 
 - [cifkit](https://github.com/bobleesj/cifkit) | [issue]() | [cf](https://github.com/conda-forge/cifkit-feedstock) | [cf-fork](https://github.com/bobleesj/cifkit-feedstock)
-- [CBA](https://github.com/bobleesj/cif-bond-analyzer) | [SAF](https://github.com/bobleesj/structure-analyzer-featurizer) | [SAF-app](https://github.com/bobleesj/structure-analyzer-featurizer-app) | [CAF](https://github.com/bobleesj/composition-analyzer-featurizer) | [CAF-app](https://github.com/bobleesj/composition-analyzer-featurizer-app) |  [CIF Cleaner](https://github.com/bobleesj/cif-cleaner)
-- [bobleesj.utils](https://github.com/bobleesj/bobleesj.utils)
+- [CBA](https://github.com/bobleesj/cif-bond-analyzer) | [SAF](https://github.com/bobleesj/structure-analyzer-featurizer) | [CAF](https://github.com/bobleesj/composition-analyzer-featurizer) | [bobleesj.utils](https://github.com/bobleesj/bobleesj.utils)
 
 Software I maintain:
 
