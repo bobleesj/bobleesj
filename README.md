@@ -5,11 +5,8 @@
 Software I develop:
 
 - [cifkit](https://github.com/bobleesj/cifkit) | [issue]() | [cf](https://github.com/conda-forge/cifkit-feedstock) | [cf-fork](https://github.com/bobleesj/cifkit-feedstock)
-- [CBA](https://github.com/bobleesj/cif-bond-analyzer) | [SAF](https://github.com/bobleesj/structure-analyzer-featurizer) | [CAF](https://github.com/bobleesj/composition-analyzer-featurizer) | [bobleesj.utils](https://github.com/bobleesj/bobleesj.utils)
-
-Software I maintain:
-
 - [skpkg](https://github.com/scikit-package/scikit-package) | [issue](https://github.com/scikit-package/scikit-package/issues) | [fork](https://github.com/bobleesj/scikit-package) | [cf](https://github.com/conda-forge/scikit-package-feedstock) | [cf-fork](https://github.com/bobleesj/scikit-package-feedstock)
+- [CBA](https://github.com/bobleesj/cif-bond-analyzer) | [SAF](https://github.com/bobleesj/structure-analyzer-featurizer) | [CAF](https://github.com/bobleesj/composition-analyzer-featurizer) | [bobleesj.utils](https://github.com/bobleesj/bobleesj.utils)
 - [skpkg-workspace](https://github.com/scikit-package/scikit-package-workspace) | [skpkg-system](https://github.com/scikit-package/scikit-package-system)  | [skpkg-conda-forge](https://github.com/scikit-package/scikit-package-conda-forge) | [skpkg-release-scripts](https://github.com/scikit-package/release-scripts)
 
 ### My interests
