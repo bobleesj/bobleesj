@@ -1,5 +1,3 @@
-[Bob's command-line cheatsheet](https://github.com/bobleesj/command-line-cheatsheet/) | [git-tips](https://github.com/bobleesj/tips) | [bobleesj.github.io](https://github.com/bobleesj/bobleesj.github.io)
-
 👉 Check [`scikit-package`](https://scikit-package.github.io/scikit-package/) to save your time sharing scientific code in Python.
 
 Software I develop:
