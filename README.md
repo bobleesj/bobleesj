@@ -1,10 +1,5 @@
 👉 Check [`scikit-package`](https://scikit-package.github.io/scikit-package/) to save your time sharing scientific code in Python.
 
-Software I develop:
-
-- [skpkg](https://github.com/scikit-package/scikit-package/issues) | [skpkg-workspace](https://github.com/scikit-package/scikit-package-workspace/issues) | [skpkg-system](https://github.com/scikit-package/scikit-package-system/issues)  | [skpkg-conda-forge](https://github.com/scikit-package/scikit-package-conda-forge/issues) | [skpkg-release-scripts](https://github.com/scikit-package/release-scripts/issues)
-- [bobleesj.utils](https://github.com/bobleesj/bobleesj.utils/issues) | [cifkit](https://github.com/bobleesj/cifkit/issues) |  [SAF](https://github.com/bobleesj/structure-analyzer-featurizer/issues) | [CBA](https://github.com/bobleesj/cif-bond-analyzer/issues)  | [CAF](https://github.com/bobleesj/composition-analyzer-featurizer/issues) 
-
 ### My interests
 
 I've been building software with Dr. Anton Oliynyk from CUNY Hunter College. I generate geometric/compositional features and build user-interactive research tools for filtering, preprocessing, and merging crystal data.
@@ -17,6 +12,7 @@ I've been building software with Dr. Anton Oliynyk from CUNY Hunter College. I g
 | 4 | [cifkit](https://github.com/bobleesj/cifkit) | Python package for .cif coordination geometry and atomic site analysis | <a href="https://joss.theoj.org/papers/9016ae27b8c6fddffaae5aeb8be18d19"><img src="https://joss.theoj.org/papers/9016ae27b8c6fddffaae5aeb8be18d19/status.svg"></a>|  
 | 5 | [Inorganic ML descriptors](https://www.sciencedirect.com/science/article/pii/S2352340924001495) | Thermoelectric materials performance (zT) predictions with ML | [ACS Applied Materials & Interfaces](https://pubs.acs.org/doi/10.1021/acsami.4c19149)|  
 | 6| [Crystal structure clustering with SAF/CAF](https://github.com/bobleesj/SAF-CAF-performance) | Unsupervised ML with ~80 features and experimental validation | [Journal of American Chemical Society (JACS)](https://pubs.acs.org/doi/10.1021/jacs.5c03510) |  
+| 7 | [scikit-package](https://github.com/scikit-package/scikit-package) | Software packaging standards and tools for sharing reusable, maintainable scientific Python code | [Digital Discovery](https://doi.org/10.1039/D6DD00121A) |  
 
 Features implemented in CIF Bond Analyzer!
 
@@ -24,4 +20,4 @@ Features implemented in CIF Bond Analyzer!
 
 <img width="500" alt="ternary" src="https://github.com/bobleesj/bobleesj/assets/14892262/65e3bd76-8aaa-4a2b-b858-d3b83102867a">
 
-Last update: Aor 16, 2025
+Last update: Jul 9, 2026
